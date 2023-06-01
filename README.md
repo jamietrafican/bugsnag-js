@@ -1,3 +1,5 @@
+# Repository Archived: Please use the official [Bugsnag libraries](https://docs.bugsnag.com/platforms/javascript/)
+
 # Bugsnag error reporter for JavaScript
 [![Documentation](https://img.shields.io/badge/docs-latest-blue.svg)](https://docs.bugsnag.com/platforms/browsers)
 [![Build status](https://travis-ci.org/bugsnag/bugsnag-js.svg?branch=master)](https://travis-ci.org/bugsnag/bugsnag-js)
